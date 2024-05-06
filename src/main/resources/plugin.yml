@@ -1,0 +1,5 @@
+name: BossAutoFeed
+version: '${project.version}'
+main: com.unclecole.bossautofeed.BossAutoFeed
+api-version: 1.18
+authors: [ Cole ]
